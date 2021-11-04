@@ -1,0 +1,1 @@
+It will analyze the sensor data of several pumps. You can find the data here: https://ga-data-cases.s3.eu-central-1.amazonaws.com/pump_sensor.zip
